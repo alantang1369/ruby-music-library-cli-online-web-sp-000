@@ -35,5 +35,3 @@ class Artist
     songs.collect{|song| song.genre}.uniq
   end
 end
-
-b.is_a?
